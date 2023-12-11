@@ -51,6 +51,8 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 
 <h2 id="general">General Information</h2>
 
+<p>Etherpad: <a href="https://pad.carpentries.org/2023-12-11-mtu">https://pad.carpentries.org/2023-12-11-mtu</a></p>
+
 {% if site.carpentry == "swc" %}
 {% include swc/intro.html %}
 {% elsif site.carpentry == "dc" %}
